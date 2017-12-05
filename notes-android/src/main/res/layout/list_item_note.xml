@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_activated">
+
+    <CheckBox
+        android:id="@+id/note_list_item_completeCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:enabled="false"
+        android:focusable="false"
+        android:padding="4dp" />
+
+    <TextView
+        android:id="@+id/note_list_item_titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/note_list_item_completeCheckBox"
+        android:textStyle="bold"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:text="Dummy note title" />
+
+    <TextView
+        android:id="@+id/note_list_item_dateTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/note_list_item_titleTextView"
+        android:layout_toRightOf="@id/note_list_item_completeCheckBox"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="4dp"
+        android:text="Dummy note date" />
+
+</RelativeLayout>
+
+
