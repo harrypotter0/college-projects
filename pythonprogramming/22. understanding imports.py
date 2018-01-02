@@ -21,13 +21,13 @@ So let's talk about basic importing:
 # this loads that entire module, and will run any code that is
 # set to run in the module
 # remember if name == main? Again, that's what we use to stop code
-# from running when we just want to import. 
+# from running when we just want to import.
 import statistics
 
 example_list = [5,2,5,6,1,2,6,7,2,6,3,5,5]
 
 # now, to use our import above, since we just imported statistics,
-# we must preceed any funciton wi thin statistics with a statistics.
+# we must preceed any funciton within statistics with a statistics.
 # so, for example, to access the mean() function within statistics:
 
 print(statistics.mean(example_list))
