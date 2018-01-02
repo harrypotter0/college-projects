@@ -40,4 +40,4 @@ basic_window(350,500)
 basic_window(350,500,font='courier')
 
 # here, it is just important that you place any parameters with default values
-# at the very end, to avoid trouble when calling the function down the road. 
+# at the very end, to avoid trouble when calling the function down the road.

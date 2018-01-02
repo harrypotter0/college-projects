@@ -19,7 +19,7 @@ locally  inherently.
 A local variable cannot be accessed globally, inherently.
 Now, dont worry about committing
 that to memory right now, I think it makes a lot more sense when you just
-see and do it, so let's do that. 
+see and do it, so let's do that.
 
 '''
 # this variable has no parent function, but is actually NOT a global variable.
@@ -29,17 +29,17 @@ see and do it, so let's do that.
 x = 6
 
 def example():
-    # z, however, is a local variable.  
+    # z, however, is a local variable.
     z = 5
     # this works
     print(z)
-    
-example()
+
+#example()
 # this does not, which often confuses people, because z has been defined
 # and successfully even was called... the problem is that it is a local
 # variable only, and you are attempting to access it globally.
 
-print(z)
+#print(z)
 
 # next up is an example that i've seen cause even more trouble, and that's
 # the attempt to play with a global variable locally. The reason why this
@@ -60,14 +60,14 @@ def example2():
     # so there we attempted to take the x var and add 6 to it... but now
     # we are told that we cannot, as we're referencing the variable before
     # its assignment.
-
+#example2()
 '''
 So now you know the rules, what can we do about it?
 '''
 x = 6
 
 def example3():
-    # what we do here is defined x as a global variable. 
+    # what we do here is defined x as a global variable.
     global x
     # now we can:
     print(x)
@@ -75,7 +75,7 @@ def example3():
     print(x)
 
 
-
+#example3()
 
 '''
 So that is all for global and local, though I will show 1 last thing.
@@ -92,9 +92,9 @@ def example4():
     globx+=5
     print(globx)
 
-
+example4()
 # and that's it!
 
 # hopefully that will help some of you from pulling your hair out for 30 minutes
 # trying to figure out what the heck is going on to reality. This is something
-# that snagged me pretty good when i was starting out. 
+# that snagged me pretty good when i was starting out.

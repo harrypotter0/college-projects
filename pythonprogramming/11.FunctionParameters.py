@@ -4,7 +4,7 @@ functions. In the last video you were shown a very basic function, without
 any parameters
 
 In this video, lets include a parameter, and give this function more...
-functionality. 
+functionality.
 '''
 
 
@@ -65,12 +65,6 @@ simple_addition(3)
 
 '''
 That's it for this video, in the next video I willbe covering default variable
-assignments. 
+assignments.
 
 '''
-
-
-
-
-
-
