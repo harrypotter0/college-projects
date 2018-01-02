@@ -33,13 +33,3 @@ y = [[5,2],
 # this is slightly cleaner, and python automatically understands it:
 
 print(y)
-
-
-
-
-
-
-
-
-
-

@@ -67,9 +67,4 @@ with open('example.csv') as csvfile:
 
 
     #but..................... what if we enter something that is non-existent?
-    # oh noes, an error! 
-
-    
-
-
-    
+    # oh noes, an error!
