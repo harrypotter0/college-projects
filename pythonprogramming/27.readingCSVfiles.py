@@ -10,6 +10,8 @@ here I will just create a simple example.csv file
 
 
 '''
+
+
 import csv
 
 with open('example.csv') as csvfile:
@@ -17,7 +19,7 @@ with open('example.csv') as csvfile:
     for row in readCSV:
         print(row)
         print(row[0])
-        print(row[0],row[1],row[2],)
+        print(row[0],row[1],row[2])
 
 
 #### next part....
@@ -60,7 +62,7 @@ with open('example.csv') as csvfile:
 
     # now, remember our lists?
 
-    whatColor = input('What color do you wish to know the date of?:')
+    whatColor = raw_input('What color do you wish to know the date of?:')#raw_input for python2 , input for python3
     coldex = colors.index(whatColor)
     theDate = dates[coldex]
     print('The date of',whatColor,'is:',theDate)

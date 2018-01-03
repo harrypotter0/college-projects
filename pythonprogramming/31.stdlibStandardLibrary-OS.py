@@ -34,7 +34,6 @@ os.rename('newDir','newDir2')
 time.sleep(2)
 os.rmdir('newDir2')
 
-
 '''
 There are more things you can do, but these are some of the more basics.
 '''

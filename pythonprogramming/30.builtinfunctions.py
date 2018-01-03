@@ -3,13 +3,13 @@
 '''
 I cannot cover them all in 1 video, but there are quite a few that I find
 myself needing semi-regularly. Also, some we've already covered,
-or are fairly complex, so I will cover them later. 
+or are fairly complex, so I will cover them later.
 
 I will post a link in the description to the list of all built in functions.
 
 https://docs.python.org/3/library/functions.html
 
-With that, we'll go alphabetically. 
+With that, we'll go alphabetically.
 '''
 
 ### absolute value ###
@@ -39,7 +39,7 @@ if abs(exNum1) == exNum2:
 '''
 Probably one of the most under-utilized commands in Python, most people
 do not even know it exists.... HELP! Here, you can
-just type help() empty params... or put something in there. 
+just type help() empty params... or put something in there.
 '''
 
 
@@ -61,7 +61,7 @@ help(time)
 
 '''
 How to find the maximum or highest number in a list...
-or how to find the lowest or minimum number in a list. 
+or how to find the lowest or minimum number in a list.
 '''
 
 exList = [5,2,1,6,7]
@@ -94,7 +94,7 @@ print(y)
 '''
 Many times, like reading data in from a file, you might find
 the datatype is incorrect, like when we mean to have integers,
-but they are currently in string form, or visa versa. 
+but they are currently in string form, or visa versa.
 '''
 
 intMe = '55'
@@ -112,21 +112,5 @@ print(floatMe)
 
 '''
 You can also convert floats to strings, strings to floats... and more. Just make sure you do a valid operation.
-You still cannot convert 'h' to a float. 
+You still cannot convert 'h' to a float.
 '''
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
