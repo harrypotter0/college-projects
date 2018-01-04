@@ -9,7 +9,12 @@ popularly used for this purpose, but it is more than capable of being used
 
 
 # Simple enough, just import everything from tkinter.
-from tkinter import *
+try:
+    # for Python2
+    from Tkinter import *   ## notice capitalized T in Tkinter
+except ImportError:
+    # for Python3
+    from tkinter import *   ## notice lowercase 't' in tkinter here
 
 
 # Here, we are creating our class, Window, and inheriting from the Frame
@@ -18,16 +23,16 @@ class Window(Frame):
 
     # Define settings upon initialization. Here you can specify
     def __init__(self, master=None):
-        
+
         # parameters that you want to send through the Frame class.
         # self, and this is the parent widget
 
         # if you are wondering what self is... it is the object
         # created from the class. You can actually call it anything
         # you want... people just use "self"
-        Frame.__init__(self, master)   
+        Frame.__init__(self, master)
 
-        #reference to the master widget, which is the tk window                 
+        #reference to the master widget, which is the tk window
         self.master = master
 
         #with that, we want to then run init_window, which doesn't yet exist
@@ -36,14 +41,8 @@ class Window(Frame):
     #Creation of init_window
     #def init_window(self):
 
-        # changing the title of our master widget      
+        # changing the title of our master widget
 #        self.master.title("GUI")
-
-
-        
-        
-
-
 
 # root window created. Here, that would be the only window, but
 # you can later have windows within windows.
@@ -54,6 +53,5 @@ root = Tk()
 #creation of an instance
 app = Window(root)
 
-#mainloop 
-root.mainloop()  
-
+#mainloop
+root.mainloop()

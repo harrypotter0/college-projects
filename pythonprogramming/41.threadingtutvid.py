@@ -15,8 +15,7 @@ def threader():
         worker = q.get()
         exampleJob(worker)
         q.task_done()
-        
-        
+
 q = Queue()
 
 for x in range(10):
@@ -32,23 +31,3 @@ for worker in range(20):
 q.join()
 
 print('Entire job took:',time.time()-start)
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-

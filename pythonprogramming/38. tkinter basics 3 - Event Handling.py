@@ -18,11 +18,11 @@ class Window(Frame):
 
     # Define settings upon initialization. Here you can specify
     def __init__(self, master=None):
-        
-        # parameters that you want to send through the Frame class. 
-        Frame.__init__(self, master)   
 
-        #reference to the master widget, which is the tk window                 
+        # parameters that you want to send through the Frame class.
+        Frame.__init__(self, master)
+
+        #reference to the master widget, which is the tk window
         self.master = master
 
         #with that, we want to then run init_window, which doesn't yet exist
@@ -31,7 +31,7 @@ class Window(Frame):
     #Creation of init_window
     def init_window(self):
 
-        # changing the title of our master widget      
+        # changing the title of our master widget
         self.master.title("GUI")
 
         # allowing the widget to take the full space of the root window
@@ -43,16 +43,8 @@ class Window(Frame):
         # placing the button on my window
         quitButton.place(x=0, y=0)
 
-        
-
-
     def client_exit(self):
         exit()
-
-
-        
-        
-
 
 
 # root window created. Here, that would be the only window, but
@@ -64,6 +56,5 @@ root.geometry("400x300")
 #creation of an instance
 app = Window(root)
 
-#mainloop 
-root.mainloop()  
-
+#mainloop
+root.mainloop()
