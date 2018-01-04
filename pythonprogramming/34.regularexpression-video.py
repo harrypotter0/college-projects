@@ -55,20 +55,3 @@ for eachName in names:
     x+=1
 
 print(ageDict)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
