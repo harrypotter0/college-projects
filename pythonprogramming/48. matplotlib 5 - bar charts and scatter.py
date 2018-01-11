@@ -9,7 +9,7 @@ y = [12,16,6]
 x2 = [6,9,11]
 y2 = [6,15,7]
 
-
+# scatter can alos be used
 # can plot specifically, after just showing the defaults:
 plt.scatter(x, y)#, align='center')
 

@@ -2,7 +2,7 @@
 The subprocess module lets you do any commands that you would normally do
 via your shell. If you recall before, the sys module let us communicate
 from the shell to our script, now we can communicate from our script to the
-shell, besides with just simple error msgs. 
+shell, besides with just simple error msgs.
 '''
 
 
@@ -16,8 +16,6 @@ import subprocess
 # IF YOU ARE NOT IN A SHELL, YOU WILL SEE NO OUTPUT!
 subprocess.call('dir', shell=True)
 
-
 subprocess.call('echo dir', shell=True)
 
-
-
+subprocess.call('python filename.py "check this out !! "',shell=True)
