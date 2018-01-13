@@ -10,7 +10,7 @@ def main():
     parser.add_argument('--operation', type=str, default='add',
                         help='What operation? Can choose add, sub, mul, or div')
     args = parser.parse_args()
-    sys.stdout.write(str(calc(args)))
+    sys.stdout.write(str(calc(args))+'\n')
 
 def calc(args):
     if args.operation == 'add':
