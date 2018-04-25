@@ -1,0 +1,4114 @@
+[
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/rYTIHd-3EwCZ7V-1cfy-46qcyyc\"",
+        "id": "CWGWn0vPTMQ",
+        "snippet": {
+            "publishedAt": "2017-10-27T18:30:42.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Raleigh, North Carolina 24-Oct-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS),  Programming for Everybody (PR4E), and Web Applications for Everybody (WA4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CWGWn0vPTMQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CWGWn0vPTMQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CWGWn0vPTMQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Raleigh, North Carolina 24-Oct-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS),  Programming for Everybody (PR4E), and Web Applications for Everybody (WA4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "0",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 35.77862,
+                "longitude": -78.64039,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-10-24T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qC6eD9smN0Mg8Dkp02f1Y5ydIcQ\"",
+        "id": "dQ1YZMU1DHg",
+        "snippet": {
+            "publishedAt": "2017-10-27T15:22:51.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours San Francisco 19-Oct-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nThis was at Joe and the Juice and on the day that the Web Applications for Everybody Specialization launched.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/dQ1YZMU1DHg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours San Francisco 19-Oct-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nThis was at Joe and the Juice and on the day that the Web Applications for Everybody Specialization launched."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "53",
+            "likeCount": "4",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 37.79177,
+                "longitude": -122.40275,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-10-19T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Bi-eEInavDYIh7f2IycpeCAtzec\"",
+        "id": "O5ESxp-IPEs",
+        "snippet": {
+            "publishedAt": "2017-06-22T03:33:46.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Philadelphia 07-June-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/O5ESxp-IPEs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/O5ESxp-IPEs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/O5ESxp-IPEs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/O5ESxp-IPEs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/O5ESxp-IPEs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Philadelphia 07-June-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "172",
+            "likeCount": "3",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 39.94849,
+                "longitude": -75.14372,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-06-07T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Jeo8tFzbTJp442DO_5Q2ItZMkes\"",
+        "id": "l3iDVYEJwyQ",
+        "snippet": {
+            "publishedAt": "2017-05-27T15:18:12.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Vancouver, BC Canada 25-May-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/l3iDVYEJwyQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/l3iDVYEJwyQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/l3iDVYEJwyQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/l3iDVYEJwyQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/l3iDVYEJwyQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Vancouver, BC Canada 25-May-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "218",
+            "likeCount": "3",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 49.28313,
+                "longitude": -123.11214,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-05-25T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/O-y7zOaP67Zm3mKcu4WJyxg2PBU\"",
+        "id": "7ScIlzEcKMg",
+        "snippet": {
+            "publishedAt": "2017-05-24T22:25:04.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Seattle,WA 23-May-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7ScIlzEcKMg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7ScIlzEcKMg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7ScIlzEcKMg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7ScIlzEcKMg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7ScIlzEcKMg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Seattle,WA 23-May-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "186",
+            "likeCount": "3",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 47.61524,
+                "longitude": -122.34112,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-05-23T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/V0TMrRxW5DwaO0JsNs9o6wgNMsQ\"",
+        "id": "Lw_cQGrKzxo",
+        "snippet": {
+            "publishedAt": "2017-05-21T03:57:41.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Denver, CO 18-May-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Lw_cQGrKzxo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Lw_cQGrKzxo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Lw_cQGrKzxo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Lw_cQGrKzxo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Lw_cQGrKzxo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Denver, CO 18-May-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "879",
+            "likeCount": "14",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 39.74793,
+                "longitude": -104.99774,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-05-18T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/VrDzjx91Yjkraz6HaXyMycW8V0U\"",
+        "id": "Znly_nfEXSM",
+        "snippet": {
+            "publishedAt": "2017-05-12T21:33:10.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Capetown South Africa 11-May-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Znly_nfEXSM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Znly_nfEXSM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Znly_nfEXSM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Znly_nfEXSM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Znly_nfEXSM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Capetown South Africa 11-May-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1045",
+            "likeCount": "20",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": -33.95954,
+                "longitude": 18.4704,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-05-11T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/mXS8aO4Yddlg4OHMzxsoS1JJXWU\"",
+        "id": "kPXMZDPMpUs",
+        "snippet": {
+            "publishedAt": "2017-05-10T10:34:33.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours London Shoreditch 21-April-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kPXMZDPMpUs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kPXMZDPMpUs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kPXMZDPMpUs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kPXMZDPMpUs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/kPXMZDPMpUs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours London Shoreditch 21-April-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1179",
+            "likeCount": "16",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 51.52654,
+                "longitude": -0.08019,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-04-21T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/8G_0Fdl7SKBqiJDwOqA9C8TGpXU\"",
+        "id": "06Joh-jiTEE",
+        "snippet": {
+            "publishedAt": "2017-02-28T09:05:32.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Class Reunion - Bletchley Park, UK 26-February-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.  We had an afternoon presentation from Joel Greenberg - the author of the Gordon Welshman biography.  Stephen Catto (Course mentor) also attended for the second time from Edinburgh.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/06Joh-jiTEE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/06Joh-jiTEE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/06Joh-jiTEE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/06Joh-jiTEE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/06Joh-jiTEE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Class Reunion - Bletchley Park, UK 26-February-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.  We had an afternoon presentation from Joel Greenberg - the author of the Gordon Welshman biography.  Stephen Catto (Course mentor) also attended for the second time from Edinburgh.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1225",
+            "likeCount": "20",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 51.99705,
+                "longitude": -0.73864,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-02-26T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/4fQ-ndkc8JbA2zdoBLx08aTeUXE\"",
+        "id": "bJhblPvjzYg",
+        "snippet": {
+            "publishedAt": "2017-02-03T15:27:53.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Orlando Florida 21-January-2017",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bJhblPvjzYg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bJhblPvjzYg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bJhblPvjzYg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bJhblPvjzYg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bJhblPvjzYg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Orlando Florida 21-January-2017",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "186",
+            "likeCount": "3",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 28.55347,
+                "longitude": -81.36594,
+                "altitude": 0.0
+            },
+            "recordingDate": "2017-01-22T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/vrdPfrQdHU2g3vbWGW-a7b67YEw\"",
+        "id": "2f9YNAIpjjQ",
+        "snippet": {
+            "publishedAt": "2016-09-23T16:29:15.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Seoul Korea 22-September-2016",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2f9YNAIpjjQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2f9YNAIpjjQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2f9YNAIpjjQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/2f9YNAIpjjQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/2f9YNAIpjjQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Seoul Korea 22-September-2016",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1978",
+            "likeCount": "33",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "6"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 37.50981,
+                "longitude": 127.0581,
+                "altitude": 0.0
+            },
+            "recordingDate": "2016-09-22T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/eQC91zr9_PiUYo3KcQVwZOyO99U\"",
+        "id": "NjXw_sBnIGQ",
+        "snippet": {
+            "publishedAt": "2016-08-19T12:12:03.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Orem, UT 18-August-2016",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/NjXw_sBnIGQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/NjXw_sBnIGQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/NjXw_sBnIGQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/NjXw_sBnIGQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/NjXw_sBnIGQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours Orem, UT 18-August-2016",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1311",
+            "likeCount": "24",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "10"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 40.27352,
+                "longitude": -111.67855,
+                "altitude": 0.0
+            },
+            "recordingDate": "2016-08-18T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/6IAPSQoD1q1GU4WX_VM9G0Qhbbg\"",
+        "id": "T5N7yxKFn9g",
+        "snippet": {
+            "publishedAt": "2016-06-08T13:52:25.000Z",
+            "channelId": "UCt1vg77htpC37o1QZziCjTw",
+            "title": "Programming For Everybody - Spring Graduation - 2016",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/T5N7yxKFn9g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/T5N7yxKFn9g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/T5N7yxKFn9g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/T5N7yxKFn9g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/T5N7yxKFn9g/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "University of Michigan - Academic Innovation",
+            "tags": [
+                "#hangoutsonair",
+                "Hangouts On Air",
+                "#hoa"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Programming For Everybody - Spring Graduation - 2016",
+                "description": ""
+            }
+        },
+        "statistics": {
+            "viewCount": "1221",
+            "likeCount": "29",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "9"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/BYNSfY9jwoNhY0rrnLaDswVaqfg\"",
+        "id": "7g8hMPcZNOY",
+        "snippet": {
+            "publishedAt": "2016-07-11T03:27:33.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Seattle, WA 30-June-2016",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://pikebrewing.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7g8hMPcZNOY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7g8hMPcZNOY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7g8hMPcZNOY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7g8hMPcZNOY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7g8hMPcZNOY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Seattle, WA 30-June-2016",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://pikebrewing.com/"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "364",
+            "likeCount": "6",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 47.60813,
+                "longitude": -122.33986,
+                "altitude": 0.0
+            },
+            "recordingDate": "2016-06-30T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/PABSyUuvlEioKpgMVRAZO_OHBzA\"",
+        "id": "lqlbDxdZWZQ",
+        "snippet": {
+            "publishedAt": "2016-07-11T03:31:10.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Portland, OR 29-June-2016",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://10barrel.com/#portland",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lqlbDxdZWZQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lqlbDxdZWZQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lqlbDxdZWZQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lqlbDxdZWZQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/lqlbDxdZWZQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Coursera Office Hours Portland, OR 29-June-2016",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nLocation: http://10barrel.com/#portland"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "447",
+            "likeCount": "6",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 45.52594,
+                "longitude": -122.68555,
+                "altitude": 0.0
+            },
+            "recordingDate": "2016-06-29T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/i-Y-7bs6FD2_ha_qB6hNgcFCPf4\"",
+        "id": "1SQ4eAeVV4Y",
+        "snippet": {
+            "publishedAt": "2016-05-27T14:54:17.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours New York, NY 25-May-2016",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1SQ4eAeVV4Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1SQ4eAeVV4Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1SQ4eAeVV4Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1SQ4eAeVV4Y/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1SQ4eAeVV4Y/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours New York, NY 25-May-2016",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "448",
+            "likeCount": "6",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 40.72862,
+                "longitude": -74.00475,
+                "altitude": 0.0
+            },
+            "recordingDate": "2016-05-25T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/NXqxeytoJi4GL7aX-s7sQy3kK3k\"",
+        "id": "edU1-4MtEbg",
+        "snippet": {
+            "publishedAt": "2016-04-26T00:37:00.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours  Houston, Texas 23-Apr-2016",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/edU1-4MtEbg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/edU1-4MtEbg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/edU1-4MtEbg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/edU1-4MtEbg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/edU1-4MtEbg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "tags": [
+                "Pyhon",
+                "MOOC",
+                "free course"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours  Houston, Texas 23-Apr-2016",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "610",
+            "likeCount": "12",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 29.73472,
+                "longitude": -95.33156,
+                "altitude": 0.0
+            },
+            "recordingDate": "2016-04-23T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/xZGDrMM9upZcjmakaJwq4JQwt8M\"",
+        "id": "V0_IEvDvaYY",
+        "snippet": {
+            "publishedAt": "2016-03-21T06:29:19.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours The Hague, NL 20-Mar-2016",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/V0_IEvDvaYY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/V0_IEvDvaYY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/V0_IEvDvaYY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/V0_IEvDvaYY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/V0_IEvDvaYY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours The Hague, NL 20-Mar-2016",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "2001",
+            "likeCount": "34",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 52.07609,
+                "longitude": 4.30902,
+                "altitude": 0.0
+            },
+            "recordingDate": "2016-03-20T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XH9ntc7Ouk-dnwaeGw3hUPxN_78\"",
+        "id": "IDQHClsP2HA",
+        "snippet": {
+            "publishedAt": "2016-01-27T12:53:11.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Orlando Florida 26-Jan-2015",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IDQHClsP2HA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IDQHClsP2HA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IDQHClsP2HA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/IDQHClsP2HA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours Orlando Florida 26-Jan-2015",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1338",
+            "likeCount": "11",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 28.45238,
+                "longitude": -81.47268,
+                "altitude": 0.0
+            },
+            "recordingDate": "2016-01-26T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/SFaC5cgVyy71d51M9NlGgtkt1q0\"",
+        "id": "kBeBQ3gAJ00",
+        "snippet": {
+            "publishedAt": "2015-12-17T00:07:37.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Barcelona Spain 17-Dec-2015",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kBeBQ3gAJ00/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kBeBQ3gAJ00/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kBeBQ3gAJ00/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kBeBQ3gAJ00/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/kBeBQ3gAJ00/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours Barcelona Spain 17-Dec-2015",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "647",
+            "likeCount": "6",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 41.39624,
+                "longitude": 2.16008,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-12-17T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/NiN4-h-kCu5UXCtN68ux3zq3ljQ\"",
+        "id": "9O0NLuLbD9Q",
+        "snippet": {
+            "publishedAt": "2015-11-01T19:03:56.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Office Hours / Class Reunion Bletchley Park - 31-Sept-2015",
+            "description": "This is a video of the office hours October 31, 2015 at Bletchley Park in the UK.  So many students attended, it was more like a class reunion than a mere office hours.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/9O0NLuLbD9Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/9O0NLuLbD9Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/9O0NLuLbD9Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/9O0NLuLbD9Q/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/9O0NLuLbD9Q/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Office Hours / Class Reunion Bletchley Park - 31-Sept-2015",
+                "description": "This is a video of the office hours October 31, 2015 at Bletchley Park in the UK.  So many students attended, it was more like a class reunion than a mere office hours.\n\nhttp://www.dr-chuck.com/office/\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "2928",
+            "likeCount": "42",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 51.99652,
+                "longitude": -0.74272,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-10-31T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/7zrcpe6EAZmnlPKHkcpegWddvnY\"",
+        "id": "wXrDopq8pVw",
+        "snippet": {
+            "publishedAt": "2015-06-29T12:10:03.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Impromptu Coursera Office Hours, North Quad, Ann Arbor, MI USA",
+            "description": "This is a video of an impromptu office hours that happenned when two former students came to Ann Arbor for a University of Michigan campus visit.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nhttp://admissions.umich.edu/explore-visit/visit-campus",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wXrDopq8pVw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wXrDopq8pVw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wXrDopq8pVw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wXrDopq8pVw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wXrDopq8pVw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Impromptu Coursera Office Hours, North Quad, Ann Arbor, MI USA",
+                "description": "This is a video of an impromptu office hours that happenned when two former students came to Ann Arbor for a University of Michigan campus visit.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nhttp://admissions.umich.edu/explore-visit/visit-campus"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1445",
+            "likeCount": "19",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 42.28061,
+                "longitude": -83.74068,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-06-26T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/vAE5n3Td_wohUA4puHSA84ZGXzI\"",
+        "id": "Bq0XOOYwUpU",
+        "snippet": {
+            "publishedAt": "2015-06-17T19:04:15.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Boston, MA, USA",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera. These hours were held at:\n\nAtlantic Beer Garden\n146 Seaport Blvd\nBoston, MA 02210\n\nhttp://www.atlanticbeergarden.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Bq0XOOYwUpU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Bq0XOOYwUpU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Bq0XOOYwUpU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Bq0XOOYwUpU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Bq0XOOYwUpU/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours Boston, MA, USA",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera. These hours were held at:\n\nAtlantic Beer Garden\n146 Seaport Blvd\nBoston, MA 02210\n\nhttp://www.atlanticbeergarden.com/"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1310",
+            "likeCount": "16",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 42.35086,
+                "longitude": -71.04298,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-06-16T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/i8zykRWdWPeoCIanbs6DzyhJzhs\"",
+        "id": "r6Wge5WQ0g4",
+        "snippet": {
+            "publishedAt": "2015-06-15T15:48:59.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Detroit, MI, USA",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera. These hours were held at:\n\nMidtown Coffee Bar\nGreat Lakes Coffee\n3965 Woodward Avenue, Detroit, MI 48201\n\nhttp://www.greatlakescoffee.com/coffe...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/r6Wge5WQ0g4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/r6Wge5WQ0g4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/r6Wge5WQ0g4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/r6Wge5WQ0g4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/r6Wge5WQ0g4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Detroit, MI, USA",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera. These hours were held at:\n\nMidtown Coffee Bar\nGreat Lakes Coffee\n3965 Woodward Avenue, Detroit, MI 48201\n\nhttp://www.greatlakescoffee.com/coffe..."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1411",
+            "likeCount": "25",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 42.35031,
+                "longitude": -83.06018,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-06-08T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/c_5wq7jSKthVyzTahHPvOEn-Jys\"",
+        "id": "wnrXUXey_oQ",
+        "snippet": {
+            "publishedAt": "2015-06-04T21:09:07.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Baltimore, MD, USA",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera. These hours were held at:\n\nRenaissance Baltimore Harborplace Hotel\n202 East Pratt Street\nBaltimore,  Maryland  21202\n\nhttp://www.marriott.com/hotels/travel...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wnrXUXey_oQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wnrXUXey_oQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wnrXUXey_oQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wnrXUXey_oQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wnrXUXey_oQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Baltimore, MD, USA",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/learn/insidetheinternet\nhttps://www.coursera.org/learn/python/\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera. These hours were held at:\n\nRenaissance Baltimore Harborplace Hotel\n202 East Pratt Street\nBaltimore,  Maryland  21202\n\nhttp://www.marriott.com/hotels/travel..."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1834",
+            "likeCount": "11",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 39.2873,
+                "longitude": -76.61099,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-06-02T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/epn1RDyjkoC1AiCwUC4iKSzfC0I\"",
+        "id": "Vsf3YyB7Jnc",
+        "snippet": {
+            "publishedAt": "2015-05-10T13:45:38.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Atlanta (Buckhead), GA USA",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera. These hours were held at:\n\nFresh To Order, Buckhead \n3344 Peachtree Rd., Suite 300 \nAtlanta, GA, 30326 USA\n\nhttp://www.freshtoorder.com/f2o-buckhead\n\nThanks to the F2O Buckhead team for being such great hosts.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Vsf3YyB7Jnc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Vsf3YyB7Jnc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Vsf3YyB7Jnc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/Vsf3YyB7Jnc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/Vsf3YyB7Jnc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Atlanta (Buckhead), GA USA",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera. These hours were held at:\n\nFresh To Order, Buckhead \n3344 Peachtree Rd., Suite 300 \nAtlanta, GA, 30326 USA\n\nhttp://www.freshtoorder.com/f2o-buckhead\n\nThanks to the F2O Buckhead team for being such great hosts."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "2525",
+            "likeCount": "16",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 33.84716,
+                "longitude": -84.36796,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-05-08T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/rRv5mVjnYpi2lMl1Wugs4vIKtuA\"",
+        "id": "CyOnRyH5uxE",
+        "snippet": {
+            "publishedAt": "2015-05-08T12:59:36.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Meeting Allen B.Downey and Jeff Elkner",
+            "description": "This is an \"Office Hours\" behind-the-scenes video at the 2015 PyCon in Montreal where I meet Allen B. Downey for the very first time.  Of course Allen is the author of the original \"Think Java\" which Jeff Elkner converted to the first version of \"Think Python\" when later was improved by Allen again.   Since then Allen has gone on to write a whole series of \"Think ...\" textbooks - many of which are from O'Reilly Media.  Jeff Elkner also makes an appearance in the video.\n\nMy book \"Python for Informatics\" book and \"Programming for Everybody\" course are derived from the \"Think Python\" book because it was released under an open and remixable license.  My believe is that the \"Think Python\" book is the most impactful Open Educational Resources ever.  It has many derivations and translations and insures that people around the world always have assess to a basic Python book.\n\nhttp://www.greenteapress.com/thinkpython/\nhttp://www.allendowney.com/\nhttp://www.elkner.net/\nhttp://www.pythonlearn.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CyOnRyH5uxE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CyOnRyH5uxE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CyOnRyH5uxE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CyOnRyH5uxE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Meeting Allen B.Downey and Jeff Elkner",
+                "description": "This is an \"Office Hours\" behind-the-scenes video at the 2015 PyCon in Montreal where I meet Allen B. Downey for the very first time.  Of course Allen is the author of the original \"Think Java\" which Jeff Elkner converted to the first version of \"Think Python\" when later was improved by Allen again.   Since then Allen has gone on to write a whole series of \"Think ...\" textbooks - many of which are from O'Reilly Media.  Jeff Elkner also makes an appearance in the video.\n\nMy book \"Python for Informatics\" book and \"Programming for Everybody\" course are derived from the \"Think Python\" book because it was released under an open and remixable license.  My believe is that the \"Think Python\" book is the most impactful Open Educational Resources ever.  It has many derivations and translations and insures that people around the world always have assess to a basic Python book.\n\nhttp://www.greenteapress.com/thinkpython/\nhttp://www.allendowney.com/\nhttp://www.elkner.net/\nhttp://www.pythonlearn.com/"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1055",
+            "likeCount": "4",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 45.50405,
+                "longitude": -73.56098,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-05-06T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qVtiTFCXG1BWOQryncPixJtdzDk\"",
+        "id": "qJHcFOIjGuI",
+        "snippet": {
+            "publishedAt": "2015-04-29T04:16:35.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Ann Arbor, MI USA",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nAnn Arbor, MI",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qJHcFOIjGuI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qJHcFOIjGuI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qJHcFOIjGuI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/qJHcFOIjGuI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/qJHcFOIjGuI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Ann Arbor, MI USA",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nAnn Arbor, MI"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1670",
+            "likeCount": "16",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 42.28101,
+                "longitude": -83.74056,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-04-23T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Nt8COIGpTSNUgx9fUFzpGNtNWvI\"",
+        "id": "11jTwRfHMPI",
+        "snippet": {
+            "publishedAt": "2015-04-16T19:00:34.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Den Haag, Netherlands",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nNovatel World Forum\nJohan de Wittlaan 42 2517 JR \nDen Haag \nNetherlands\n\n\nMusic: DC Love Go Go from Silent Partner via the YouTube Royalty Free Music Library",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/11jTwRfHMPI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/11jTwRfHMPI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/11jTwRfHMPI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/11jTwRfHMPI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/11jTwRfHMPI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Den Haag, Netherlands",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nNovatel World Forum\nJohan de Wittlaan 42 2517 JR \nDen Haag \nNetherlands\n\n\nMusic: DC Love Go Go from Silent Partner via the YouTube Royalty Free Music Library"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "2095",
+            "likeCount": "15",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 52.09293,
+                "longitude": 4.28381,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-04-13T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Hsl-pUsts61KR8cpVPlQKK7VwB8\"",
+        "id": "EyArXpJMtPA",
+        "snippet": {
+            "publishedAt": "2015-04-11T18:52:38.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Montreal Quebec",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\n99 Viger Ave W\nMontreal, QC H2Z 1E9\nCanada\n\nMusic: DC Love Go Go from Silent Partner via the YouTube Royalty Free Music Library",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EyArXpJMtPA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EyArXpJMtPA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EyArXpJMtPA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/EyArXpJMtPA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/EyArXpJMtPA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Montreal Quebec",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\n99 Viger Ave W\nMontreal, QC H2Z 1E9\nCanada\n\nMusic: DC Love Go Go from Silent Partner via the YouTube Royalty Free Music Library"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "4603",
+            "likeCount": "61",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "13"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 45.50674,
+                "longitude": -73.55985,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-04-08T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/7vp15XUPKqKC8otFx0nSx-dhLzI\"",
+        "id": "4hIwl_8hmq8",
+        "snippet": {
+            "publishedAt": "2016-03-13T19:00:17.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Office Hours Paris / Milan - Extended Edition",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insid...\nhttps://www.coursera.org/course/pytho...\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4hIwl_8hmq8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4hIwl_8hmq8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4hIwl_8hmq8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4hIwl_8hmq8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4hIwl_8hmq8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Office Hours Paris / Milan - Extended Edition",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insid...\nhttps://www.coursera.org/course/pytho...\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "157",
+            "likeCount": "8",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 46.01605,
+                "longitude": 9.25717,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-02-17T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/5geluYdfONJw1FxZe8PiBDm3rhM\"",
+        "id": "rc6QtMN6vbM",
+        "snippet": {
+            "publishedAt": "2015-03-30T13:45:28.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Milan, Italy (Updated)",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nExpert Caf\u00e8\nVia Filippo Turati, 4 23807 \nMerate LC, Italia\n\nMusic: DC Love Go Go from Silent Partner via the YouTube Royalty Free Music Library",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rc6QtMN6vbM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rc6QtMN6vbM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rc6QtMN6vbM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rc6QtMN6vbM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rc6QtMN6vbM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Milan, Italy (Updated)",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nExpert Caf\u00e8\nVia Filippo Turati, 4 23807 \nMerate LC, Italia\n\nMusic: DC Love Go Go from Silent Partner via the YouTube Royalty Free Music Library"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1510",
+            "likeCount": "7",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 45.69208,
+                "longitude": 9.4145,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-02-17T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XoUL3OHj9yUNi8SQTYHyvEgjkZc\"",
+        "id": "-qRY5sFvR0w",
+        "snippet": {
+            "publishedAt": "2015-03-30T13:45:52.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Paris (Updated)",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nHoliday Inn Paris - Notre Dame\n4 Rue Danton\nParis 75006   France\n\nMusic: DC Love Go Go from Silent Partner via the YouTube Royalty Free Music Library",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-qRY5sFvR0w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-qRY5sFvR0w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-qRY5sFvR0w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/-qRY5sFvR0w/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/-qRY5sFvR0w/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Paris (Updated)",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.\n\nHoliday Inn Paris - Notre Dame\n4 Rue Danton\nParis 75006   France\n\nMusic: DC Love Go Go from Silent Partner via the YouTube Royalty Free Music Library"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1931",
+            "likeCount": "11",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 48.85291,
+                "longitude": 2.34238,
+                "altitude": 0.0
+            },
+            "recordingDate": "2015-03-30T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/yobehPj8jS8FaoPSq9JfcrlTDTo\"",
+        "id": "FzjKicH7IhI",
+        "snippet": {
+            "publishedAt": "2015-02-05T14:21:12.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Cleveland, OH",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FzjKicH7IhI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FzjKicH7IhI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FzjKicH7IhI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/FzjKicH7IhI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/FzjKicH7IhI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Cleveland, OH",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security (IHTS) and Programming for Everybody (PR4E) courses on Coursera."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1411",
+            "likeCount": "3",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 41.49932,
+                "longitude": -81.69436,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-12-15T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/CZWEsTEywfvVwnp92ImHF-NeZVU\"",
+        "id": "lx_jwYZrtMY",
+        "snippet": {
+            "publishedAt": "2014-11-26T16:38:05.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Montreal, Quebec",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped November 2014,  \nCaravane Caf\u00e9\n3506 Avenue Lacombe\nMontr\u00e9al, Qu\u00e9bec H3T 1X5",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lx_jwYZrtMY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lx_jwYZrtMY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lx_jwYZrtMY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lx_jwYZrtMY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/lx_jwYZrtMY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "29",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Montreal, Quebec",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped November 2014,  \nCaravane Caf\u00e9\n3506 Avenue Lacombe\nMontr\u00e9al, Qu\u00e9bec H3T 1X5"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1440",
+            "likeCount": "3",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 45.49739,
+                "longitude": -73.62273,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-11-25T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/rCrJ05uU7vhZLdvBMVRPVZCHGRI\"",
+        "id": "03UXDR8-tSk",
+        "snippet": {
+            "publishedAt": "2014-11-21T03:04:10.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Orlando, FL",
+            "description": "Office hours for Programming for Everybody and Internet History, Technology, and Security. Filmed at the Starbucks by the Universal Studeio in Orlando Florida.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/03UXDR8-tSk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/03UXDR8-tSk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/03UXDR8-tSk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/03UXDR8-tSk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours Orlando, FL",
+                "description": "Office hours for Programming for Everybody and Internet History, Technology, and Security. Filmed at the Starbucks by the Universal Studeio in Orlando Florida."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "883",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 28.477,
+                "longitude": -81.45793,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-11-20T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/KrqOwKnXu7pcmj42_-avek1XbGE\"",
+        "id": "7UV9GWofRAk",
+        "snippet": {
+            "publishedAt": "2014-08-13T05:22:31.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours Mountain View CA",
+            "description": "Office hours for Programming for Everybody and Internet History, Technology, and Security.  Filmed at the Starbucks by the Computer History Museum in Mountain view CA.  This was the larges sized office hours so far.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7UV9GWofRAk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7UV9GWofRAk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7UV9GWofRAk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7UV9GWofRAk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7UV9GWofRAk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours Mountain View CA",
+                "description": "Office hours for Programming for Everybody and Internet History, Technology, and Security.  Filmed at the Starbucks by the Computer History Museum in Mountain view CA.  This was the larges sized office hours so far."
+            }
+        },
+        "statistics": {
+            "viewCount": "4865",
+            "likeCount": "48",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 37.41574,
+                "longitude": -122.07763,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-08-12T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/gJmDhnPvp5WxkqvYLiux87x1RAc\"",
+        "id": "kF4T1Fm71_E",
+        "snippet": {
+            "publishedAt": "2014-07-09T12:41:57.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Boston, MA",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.  (sorry about the wind).\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped July 2014,  \nhttp://www.starbucks.com/store/12566/\n6 Cambridge Center\nCambridge, MA",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kF4T1Fm71_E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kF4T1Fm71_E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kF4T1Fm71_E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Boston, MA",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.  (sorry about the wind).\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped July 2014,  \nhttp://www.starbucks.com/store/12566/\n6 Cambridge Center\nCambridge, MA"
+            }
+        },
+        "statistics": {
+            "viewCount": "1891",
+            "likeCount": "10",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 42.36593,
+                "longitude": -71.087,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-07-08T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/FcpPm0fzHUnIg_J54bnVAlNrcHM\"",
+        "id": "pukbPvD4Uo4",
+        "snippet": {
+            "publishedAt": "2014-07-02T23:10:22.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Las Vegas, NV",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.  (sorry about the wind).\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped July 2014,  \nhttp://www.starbucks.com/store/15887/\n1500 N. Green Valley Parkway\nHenderson,\u00a0NV",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/pukbPvD4Uo4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/pukbPvD4Uo4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/pukbPvD4Uo4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/pukbPvD4Uo4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Las Vegas, NV",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.  (sorry about the wind).\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped July 2014,  \nhttp://www.starbucks.com/store/15887/\n1500 N. Green Valley Parkway\nHenderson,\u00a0NV"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "786",
+            "likeCount": "3",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 36.16994,
+                "longitude": -115.13983,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-07-02T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/_V38A3bj3AQsFoZFwZHl4X_D1Vc\"",
+        "id": "61brxtZGzqg",
+        "snippet": {
+            "publishedAt": "2014-06-05T05:08:58.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Miami, FL",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped June 2014,  \nhttp://www.starbucks.com/store/15353\n110 SE 3rd Ave\nMiami,\u00a0FL\u00a033132",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/61brxtZGzqg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/61brxtZGzqg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/61brxtZGzqg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/61brxtZGzqg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Miami, FL",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped June 2014,  \nhttp://www.starbucks.com/store/15353\n110 SE 3rd Ave\nMiami,\u00a0FL\u00a033132"
+            }
+        },
+        "statistics": {
+            "viewCount": "1507",
+            "likeCount": "11",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 25.77701,
+                "longitude": -80.19059,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-06-05T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/2RsnxfVRFQznD1Ns0RjIItvgE3g\"",
+        "id": "T-T9RT0ardw",
+        "snippet": {
+            "publishedAt": "2014-05-31T03:53:37.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - New York NY",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped May 2014, At the Starbucks, 600 Eighth Ave., New York,\u00a0NY\nhttp://www.starbucks.com/store/18444\n600 Eighth Ave.\nNew York,\u00a0NY\u00a0100183000\u00a0",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/T-T9RT0ardw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/T-T9RT0ardw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/T-T9RT0ardw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/T-T9RT0ardw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "tags": [
+                "Coursera (Organization)",
+                "New York (US State)",
+                "starbucks",
+                "python"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - New York NY",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped May 2014, At the Starbucks, 600 Eighth Ave., New York,\u00a0NY\nhttp://www.starbucks.com/store/18444\n600 Eighth Ave.\nNew York,\u00a0NY\u00a0100183000"
+            }
+        },
+        "statistics": {
+            "viewCount": "1799",
+            "likeCount": "19",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 40.75529,
+                "longitude": -73.99078,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-05-29T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/praqihTR--Ra71CtHL6w6mDh8DI\"",
+        "id": "02QDFT343xk",
+        "snippet": {
+            "publishedAt": "2014-05-28T02:39:25.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - Washington, DC",
+            "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped May 2014, at the Starbucks on 7th in in Chinatown, Washington, DC, USA.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/02QDFT343xk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/02QDFT343xk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/02QDFT343xk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/02QDFT343xk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "tags": [
+                "Washington",
+                "D.C. (City/Town/Village) Coursera (Organization) python",
+                "starbucks"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - Washington, DC",
+                "description": "This is a video of face-to-face office hours for my Coursera courses.\n\nhttps://www.coursera.org/course/insidetheinternet\nhttps://www.coursera.org/course/pythonlearn\nhttp://office-hours.dr-chuck.com/\n\nI teach the Internet History, Technology, and Security and Programming for Everybody Courses on Coursera.\n\nTaped May 2014, at the Starbucks on 7th in in Chinatown, Washington, DC, USA."
+            }
+        },
+        "statistics": {
+            "viewCount": "2892",
+            "likeCount": "50",
+            "dislikeCount": "2",
+            "favoriteCount": "0",
+            "commentCount": "25"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 38.89997,
+                "longitude": -77.02213,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-05-24T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/QWHesa0XwadIWrV6qDKX4eAkX9Y\"",
+        "id": "6JveYlIj06g",
+        "snippet": {
+            "publishedAt": "2014-02-13T04:59:01.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Internet History Technology, and Security Office Hours Salt Lake City, UT",
+            "description": "This is a file from office hours Salt Lake City, UT from the Coursera Internet History, Technology, and Security (IHTS) - https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6JveYlIj06g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6JveYlIj06g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6JveYlIj06g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6JveYlIj06g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6JveYlIj06g/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Internet History Technology, and Security Office Hours Salt Lake City, UT",
+                "description": "This is a file from office hours Salt Lake City, UT from the Coursera Internet History, Technology, and Security (IHTS) - https://www.coursera.org/course/insidetheinternet"
+            }
+        },
+        "statistics": {
+            "viewCount": "3379",
+            "likeCount": "5",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 40.76751,
+                "longitude": -111.89349,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-02-11T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/-dX1IX2NXlhw_N27sVMkGiPYji0\"",
+        "id": "_8-wTzMwlvY",
+        "snippet": {
+            "publishedAt": "2014-02-13T04:59:23.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Internet History Technology, and Security Office Hours Phoenix, AZ",
+            "description": "This is a file from office hours Phoenix, AZ from the Coursera Internet History, Technology, and Security (IHTS) - https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_8-wTzMwlvY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_8-wTzMwlvY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_8-wTzMwlvY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_8-wTzMwlvY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Internet History Technology, and Security Office Hours Phoenix, AZ",
+                "description": "This is a file from office hours Phoenix, AZ from the Coursera Internet History, Technology, and Security (IHTS) - https://www.coursera.org/course/insidetheinternet"
+            }
+        },
+        "statistics": {
+            "viewCount": "1049",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 33.28053,
+                "longitude": -111.78868,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-02-03T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qBE7iiLWufOGLRIDZvxFp6HDUDE\"",
+        "id": "3B9x83OZOYA",
+        "snippet": {
+            "publishedAt": "2014-01-14T03:07:25.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Internet History Technology, and Security Office Hours Santa Monica, CA",
+            "description": "This is a file from office hours Santa Monica, CA from the Coursera Internet History, Technology, and Security (IHTS) - https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3B9x83OZOYA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3B9x83OZOYA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3B9x83OZOYA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/3B9x83OZOYA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/3B9x83OZOYA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Internet History Technology, and Security Office Hours Santa Monica, CA",
+                "description": "This is a file from office hours Santa Monica, CA from the Coursera Internet History, Technology, and Security (IHTS) - https://www.coursera.org/course/insidetheinternet"
+            }
+        },
+        "statistics": {
+            "viewCount": "1094",
+            "likeCount": "6",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 34.03275,
+                "longitude": -118.47536,
+                "altitude": 0.0
+            },
+            "recordingDate": "2014-01-04T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/73bvokPr2HebWcv0Ov5ruIOWQnE\"",
+        "id": "dDHxUQzbVrE",
+        "snippet": {
+            "publishedAt": "2013-12-12T22:54:09.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Office Hours, Coursera Internet History, Technology, and Security in Zagreb, Croatia",
+            "description": "This is a file from Office hours 2013-12-12 Zagreb, Croatia from the Coursera Internet History, Technology, and Security - https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dDHxUQzbVrE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dDHxUQzbVrE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dDHxUQzbVrE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/dDHxUQzbVrE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Office Hours, Coursera Internet History, Technology, and Security in Zagreb, Croatia",
+                "description": "This is a file from Office hours 2013-12-12 Zagreb, Croatia from the Coursera Internet History, Technology, and Security - https://www.coursera.org/course/insidetheinternet"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1060",
+            "likeCount": "2",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 45.81112,
+                "longitude": 15.97319,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-12-12T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/5UXLM5VotyYFcJYJZRlwrz3RbJU\"",
+        "id": "zrZM7Y3WtS8",
+        "snippet": {
+            "publishedAt": "2013-12-12T22:27:10.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Office Hours, IHTS Coursera - Maribour, Slovenia",
+            "description": "This is a file from Office hours 2013-12-12 Maribour, Slovenia from the Coursera Internet History, Technology, and Security - https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/zrZM7Y3WtS8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/zrZM7Y3WtS8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/zrZM7Y3WtS8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/zrZM7Y3WtS8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/zrZM7Y3WtS8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Office Hours, IHTS Coursera - Maribour, Slovenia",
+                "description": "This is a file from Office hours 2013-12-12 Maribour, Slovenia from the Coursera Internet History, Technology, and Security - https://www.coursera.org/course/insidetheinternet"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "488",
+            "likeCount": "2",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 46.55465,
+                "longitude": 15.64588,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-12-12T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/e1lmgiS-XF4lvAk-R2dPzu7lfeM\"",
+        "id": "hHmVM3nn-ec",
+        "snippet": {
+            "publishedAt": "2013-07-19T05:16:16.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Amsterdam Office Hours for Internet History, Technology, and Security (IHTS) on Coursera",
+            "description": "Filmed at Cafe in de Waag in Amsterdam http://www.indewaag.nl/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hHmVM3nn-ec/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hHmVM3nn-ec/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hHmVM3nn-ec/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hHmVM3nn-ec/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/hHmVM3nn-ec/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Amsterdam Office Hours for Internet History, Technology, and Security (IHTS) on Coursera",
+                "description": "Filmed at Cafe in de Waag in Amsterdam http://www.indewaag.nl/"
+            }
+        },
+        "statistics": {
+            "viewCount": "1076",
+            "likeCount": "13",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "2"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 52.37262,
+                "longitude": 4.90036,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-07-17T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/28mfh9MQ8n1MqmoGHNypoZsOGlw\"",
+        "id": "J-vbiY5HAX4",
+        "snippet": {
+            "publishedAt": "2013-07-15T05:40:58.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Office Hours in London - Coursera Internet History, Technology, and Security",
+            "description": "Hammersmith Starbucks in London, England July 14, 2013.\nNico Morrison also filmed the office hours here: http://www.youtube.com/watch?v=BsSKYzVLO6w\n\nhttp://www.starbucks.co.uk/store/2625/\n\nhttps://www.coursera.org/course/insidetheinternet\nhttp://www.dr-chuck.com/\n\nPhoto: https://d396qusza40orc.cloudfront.net/insidetheinternet%2Fimages%2F2013_07_14_London_Maciek_M_.jpg",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/J-vbiY5HAX4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/J-vbiY5HAX4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/J-vbiY5HAX4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/J-vbiY5HAX4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/J-vbiY5HAX4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Office Hours in London - Coursera Internet History, Technology, and Security",
+                "description": "Hammersmith Starbucks in London, England July 14, 2013.\nNico Morrison also filmed the office hours here: http://www.youtube.com/watch?v=BsSKYzVLO6w\n\nhttp://www.starbucks.co.uk/store/2625/\n\nhttps://www.coursera.org/course/insidetheinternet\nhttp://www.dr-chuck.com/\n\nPhoto: https://d396qusza40orc.cloudfront.net/insidetheinternet%2Fimages%2F2013_07_14_London_Maciek_M_.jpg"
+            }
+        },
+        "statistics": {
+            "viewCount": "1481",
+            "likeCount": "4",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 51.4928,
+                "longitude": -0.22435,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-07-14T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/qK16B39h6RhgDmjQ5EDbFvXMYGo\"",
+        "id": "BsSKYzVLO6w",
+        "snippet": {
+            "publishedAt": "2013-07-14T17:14:27.000Z",
+            "channelId": "UCjqm9l8hHBNSwktJyk30Qmg",
+            "title": "IHTS Course - Dr Chuck in London - Out of Office Hours",
+            "description": "Charles Severance (Dr Chuck) teaches the Coursera course \"Internet History, Technology & Security\" & here discusses the course with students in Starbucks, Hammersmith, London.\n\nhttps://class.coursera.org/insidetheinternet-003/\nhttp://www.dr-chuck.com/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BsSKYzVLO6w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BsSKYzVLO6w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BsSKYzVLO6w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BsSKYzVLO6w/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BsSKYzVLO6w/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Nico Morrison",
+            "tags": [
+                "London",
+                "internet history",
+                "coursera",
+                "course discussion",
+                "charles severance",
+                "Dr Chuck",
+                "office hours",
+                "out of office hours"
+            ],
+            "categoryId": "29",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "IHTS Course - Dr Chuck in London - Out of Office Hours",
+                "description": "Charles Severance (Dr Chuck) teaches the Coursera course \"Internet History, Technology & Security\" & here discusses the course with students in Starbucks, Hammersmith, London.\n\nhttps://class.coursera.org/insidetheinternet-003/\nhttp://www.dr-chuck.com/"
+            }
+        },
+        "statistics": {
+            "viewCount": "2143",
+            "likeCount": "22",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "7"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 51.49218,
+                "longitude": -0.22465,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-07-14T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/U-Tc1YVaf-SWSVSK6Owuxz3z_SQ\"",
+        "id": "U13_4Y2yJU4",
+        "snippet": {
+            "publishedAt": "2013-07-13T05:34:46.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Office Hours Las Vegas - Internet History, Technology, Security Coursera",
+            "description": "Taped 11-Jul-2013 in Las Vegas.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/U13_4Y2yJU4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/U13_4Y2yJU4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/U13_4Y2yJU4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/U13_4Y2yJU4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/U13_4Y2yJU4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Office Hours Las Vegas - Internet History, Technology, Security Coursera",
+                "description": "Taped 11-Jul-2013 in Las Vegas."
+            }
+        },
+        "statistics": {
+            "viewCount": "356",
+            "likeCount": "2",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 36.11617,
+                "longitude": -115.15491,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-07-11T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XGxeGhq4pJ-E9YcC6FIbT_fyhrA\"",
+        "id": "7Wz9MGDJH4s",
+        "snippet": {
+            "publishedAt": "2013-06-27T13:43:51.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Perth Office Hours - Internet History, Technology, and Security / Coursera",
+            "description": "Recorded 2013-06-27 in Perth, AU.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/7Wz9MGDJH4s/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/7Wz9MGDJH4s/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/7Wz9MGDJH4s/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/7Wz9MGDJH4s/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/7Wz9MGDJH4s/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Perth Office Hours - Internet History, Technology, and Security / Coursera",
+                "description": "Recorded 2013-06-27 in Perth, AU."
+            }
+        },
+        "statistics": {
+            "viewCount": "320",
+            "likeCount": "1",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": -31.95424,
+                "longitude": 115.85305,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-06-27T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Gv6oYE_aZ3oGpqoscWcdYHxQgKg\"",
+        "id": "GD9RSoVDKkw",
+        "snippet": {
+            "publishedAt": "2013-06-25T08:24:53.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Melbourne Australia - Coursera Internet History, Technology, and Security Office Hours",
+            "description": "Please visit https://www.coursera.org/course/insidetheinternet for the full Internet History, Technology, and Security massively open online course (MOOC). You can see other free courses I teach online at http://online.dr-chuck.com",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GD9RSoVDKkw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GD9RSoVDKkw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GD9RSoVDKkw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/GD9RSoVDKkw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/GD9RSoVDKkw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Melbourne Australia - Coursera Internet History, Technology, and Security Office Hours",
+                "description": "Please visit https://www.coursera.org/course/insidetheinternet for the full Internet History, Technology, and Security massively open online course (MOOC). You can see other free courses I teach online at http://online.dr-chuck.com"
+            }
+        },
+        "statistics": {
+            "viewCount": "543",
+            "likeCount": "3",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": -37.82418,
+                "longitude": 144.95191,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-06-25T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/a2nc7pBIhL0O6W7rD_ujxH4quCI\"",
+        "id": "rKI5zE0ZVu4",
+        "snippet": {
+            "publishedAt": "2013-05-16T05:57:59.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Internet History San Diego Office Hours",
+            "description": "This is office hours from my Internet History, Technology, and Security Coursera course at San Diego, CA.\n\nhttps://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rKI5zE0ZVu4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rKI5zE0ZVu4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rKI5zE0ZVu4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/rKI5zE0ZVu4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/rKI5zE0ZVu4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Internet History San Diego Office Hours",
+                "description": "This is office hours from my Internet History, Technology, and Security Coursera course at San Diego, CA.\n\nhttps://www.coursera.org/course/insidetheinternet"
+            }
+        },
+        "statistics": {
+            "viewCount": "284",
+            "likeCount": "3",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 32.716,
+                "longitude": -117.16894,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-05-15T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/TZc2h81mkgYeHoetrmf6MJdG4YI\"",
+        "id": "6MvtO3hkJ34",
+        "snippet": {
+            "publishedAt": "2013-05-16T05:46:21.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Internet History Office Hours - Indianapolis, Indiana",
+            "description": "This is office hours from my Internet History, Technology, and Security Coursera course at Indianapolis, IN.  Sorry about the backlight problem.\n\nhttps://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6MvtO3hkJ34/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6MvtO3hkJ34/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6MvtO3hkJ34/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/6MvtO3hkJ34/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/6MvtO3hkJ34/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Internet History Office Hours - Indianapolis, Indiana",
+                "description": "This is office hours from my Internet History, Technology, and Security Coursera course at Indianapolis, IN.  Sorry about the backlight problem.\n\nhttps://www.coursera.org/course/insidetheinternet"
+            }
+        },
+        "statistics": {
+            "viewCount": "220",
+            "likeCount": "0",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 39.87989,
+                "longitude": -86.27265,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-05-02T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/GvFSfcuZGpYf5eQNxYS7VsSB7F4\"",
+        "id": "j7fhF-GQi1E",
+        "snippet": {
+            "publishedAt": "2013-04-28T13:11:31.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Internet History, Technology, and Security Office Hours Mexico City, Mexico",
+            "description": "Here are the Mexico City office hours for the Coursera Internet History, Technology, and Security course.  Enroll at https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/j7fhF-GQi1E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/j7fhF-GQi1E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/j7fhF-GQi1E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/j7fhF-GQi1E/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/j7fhF-GQi1E/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Internet History, Technology, and Security Office Hours Mexico City, Mexico",
+                "description": "Here are the Mexico City office hours for the Coursera Internet History, Technology, and Security course.  Enroll at https://www.coursera.org/course/insidetheinternet"
+            }
+        },
+        "statistics": {
+            "viewCount": "471",
+            "likeCount": "2",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 19.34731,
+                "longitude": -99.18228,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-04-26T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/4UsjH6ZNQelZIyKsFRQE4sZXfSM\"",
+        "id": "O7jookwwf20",
+        "snippet": {
+            "publishedAt": "2013-04-26T03:30:20.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Internet History, Technology, and Security Office Hours Puebla Mexico",
+            "description": "Here are the Puebla Mexico Office hours after the Sakai Mexico 2013 Conference for the Coursera Internet History, Technology, and Security course.  Enroll at https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/O7jookwwf20/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/O7jookwwf20/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/O7jookwwf20/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/O7jookwwf20/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/O7jookwwf20/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Internet History, Technology, and Security Office Hours Puebla Mexico",
+                "description": "Here are the Puebla Mexico Office hours after the Sakai Mexico 2013 Conference for the Coursera Internet History, Technology, and Security course.  Enroll at https://www.coursera.org/course/insidetheinternet"
+            }
+        },
+        "statistics": {
+            "viewCount": "1149",
+            "likeCount": "9",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 19.04343,
+                "longitude": -98.19708,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-04-25T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/fDnueWm5wUDCgBzK65j67u_FHE8\"",
+        "id": "HXw98e41I7I",
+        "snippet": {
+            "publishedAt": "2014-02-02T15:53:04.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Internet History, Technology and Security - Office Hours Palo Alto",
+            "description": "Here are the Palo Alto office hours for the Coursera Internet History, Technology, and Security course.  Enroll at https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HXw98e41I7I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HXw98e41I7I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HXw98e41I7I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/HXw98e41I7I/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/HXw98e41I7I/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Internet History, Technology and Security - Office Hours Palo Alto",
+                "description": "Here are the Palo Alto office hours for the Coursera Internet History, Technology, and Security course.  Enroll at https://www.coursera.org/course/insidetheinternet"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "304",
+            "likeCount": "1",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 37.43374,
+                "longitude": -122.12901,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-04-12T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XNz-kea7zVjQJerXJCRLQ0h9B7o\"",
+        "id": "nlaZK1FhxBA",
+        "snippet": {
+            "publishedAt": "2013-03-06T21:33:42.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Internet History, Technology and Security - Office Hours Austin, TX (6-Mar-2013)",
+            "description": "Here are the Austin Office Hours at SXSWedu for the Coursera Internet History, Technology, and Security course.  Enroll at https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nlaZK1FhxBA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nlaZK1FhxBA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nlaZK1FhxBA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Internet History, Technology and Security - Office Hours Austin, TX (6-Mar-2013)",
+                "description": "Here are the Austin Office Hours at SXSWedu for the Coursera Internet History, Technology, and Security course.  Enroll at https://www.coursera.org/course/insidetheinternet"
+            }
+        },
+        "statistics": {
+            "viewCount": "2250",
+            "likeCount": "12",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "5"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 30.2651,
+                "longitude": -97.73849,
+                "altitude": 0.0
+            },
+            "recordingDate": "2013-03-06T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/zXa8gSlORnaoCrM2ceoDxOMJUFc\"",
+        "id": "R6zlQZcM72o",
+        "snippet": {
+            "publishedAt": "2012-11-26T09:53:55.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Internet History, Technology, and Security Coursera Office Hours - Manila, Philippines",
+            "description": "This is my office hours in Manila, Philippines 2012-11-26 for my Internet History, Technology, and Security course. https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/R6zlQZcM72o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/R6zlQZcM72o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/R6zlQZcM72o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/R6zlQZcM72o/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Internet History, Technology, and Security Coursera Office Hours - Manila, Philippines",
+                "description": "This is my office hours in Manila, Philippines 2012-11-26 for my Internet History, Technology, and Security course. https://www.coursera.org/course/insidetheinternet"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1387",
+            "likeCount": "19",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 14.57493,
+                "longitude": 120.98469,
+                "altitude": 0.0
+            },
+            "recordingDate": "2012-11-26T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/QqXG-OlAK9yVVK5ydN27abti7j8\"",
+        "id": "lWxUFvYmeq0",
+        "snippet": {
+            "publishedAt": "2012-11-13T09:40:17.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "IHTS Coursera Office Hours - Amsterdam (2012-11-12)",
+            "description": "This is my office hours in Amsterdam 2012-11-12 for my Internet History, Technology, and Security course.  https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/lWxUFvYmeq0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/lWxUFvYmeq0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/lWxUFvYmeq0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/lWxUFvYmeq0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/lWxUFvYmeq0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "IHTS Coursera Office Hours - Amsterdam (2012-11-12)",
+                "description": "This is my office hours in Amsterdam 2012-11-12 for my Internet History, Technology, and Security course.  https://www.coursera.org/course/insidetheinternet"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "3483",
+            "likeCount": "24",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "8"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 52.36628,
+                "longitude": 4.89626,
+                "altitude": 0.0
+            },
+            "recordingDate": "2012-11-13T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/N_K4kGa1sO5rqc2x0Lcbds_xAX0\"",
+        "id": "JzNHvmSv8TI",
+        "snippet": {
+            "publishedAt": "2012-10-27T14:58:18.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Barcelona IHTS Coursera Office Hours (2012-10-27)",
+            "description": "These Internet Technology, History and Security, office hours were held at the Catalonia Diagonal Centro in Barcelona.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JzNHvmSv8TI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JzNHvmSv8TI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JzNHvmSv8TI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/JzNHvmSv8TI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Barcelona IHTS Coursera Office Hours (2012-10-27)",
+                "description": "These Internet Technology, History and Security, office hours were held at the Catalonia Diagonal Centro in Barcelona."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "2253",
+            "likeCount": "24",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 41.38569,
+                "longitude": 2.17149,
+                "altitude": 0.0
+            },
+            "recordingDate": "2012-10-27T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/VqDTCVnp0O405zu5gRpNceVHRyg\"",
+        "id": "nHaPvqU4MrM",
+        "snippet": {
+            "publishedAt": "2012-10-22T12:25:45.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera IHTS Office Hours Gangam Style - Seoul, Korea, October 22, 2012",
+            "description": "This is a video of my Seoul Korea Office hours for my Internet History, Technology, and Security course on Coursera, https://www.coursera.org/course/insidetheinternet - three students came to office hours: Nikolay, Julie, and Choongil.  We talked for about an hour and signed their Coursera certificates.\n\nSince we were less than a mile from the Gangnam District in Seoul and we drank Lattes that cost about $12.00, I would say that these office hours qualified as almost \"living Gangam style\".  If we had danced like we were riding a horse and drank our Lattes in a single gulp it would have been more obviously \"Gangnam Style\" :)\n\nThis was taped October 22, 2012 in Seoul Korea.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nHaPvqU4MrM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nHaPvqU4MrM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nHaPvqU4MrM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/nHaPvqU4MrM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "tags": [
+                "MOOC",
+                "Distance Education",
+                "Internet"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera IHTS Office Hours Gangam Style - Seoul, Korea, October 22, 2012",
+                "description": "This is a video of my Seoul Korea Office hours for my Internet History, Technology, and Security course on Coursera, https://www.coursera.org/course/insidetheinternet - three students came to office hours: Nikolay, Julie, and Choongil.  We talked for about an hour and signed their Coursera certificates.\n\nSince we were less than a mile from the Gangnam District in Seoul and we drank Lattes that cost about $12.00, I would say that these office hours qualified as almost \"living Gangam style\".  If we had danced like we were riding a horse and drank our Lattes in a single gulp it would have been more obviously \"Gangnam Style\" :)\n\nThis was taped October 22, 2012 in Seoul Korea."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1957",
+            "likeCount": "38",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "4"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 37.51356,
+                "longitude": 127.03479,
+                "altitude": 0.0
+            },
+            "recordingDate": "2012-10-22T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/SOz4yT9mpbp8UTO4iZOcLLel9SY\"",
+        "id": "kinaN5n1tOw",
+        "snippet": {
+            "publishedAt": "2012-08-29T13:43:19.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Office Hours in Washington DC - Coursera Internet History, Technology and Security",
+            "description": "This is the August 28, 2012 live office hours for Internet History, Technology, and Security  https://www.coursera.org/course/insidetheinternet.  It was the largest of all of the offices hours and we talked for an hour and a half.  The other office hours were held in New York City, Los Angeles, Ann Arbor, Chicago, and Memphis.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/kinaN5n1tOw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/kinaN5n1tOw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/kinaN5n1tOw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/kinaN5n1tOw/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/kinaN5n1tOw/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "tags": [
+                "2012",
+                "08",
+                "28",
+                "Coursera",
+                "Office",
+                "Hrs",
+                "DC"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Office Hours in Washington DC - Coursera Internet History, Technology and Security",
+                "description": "This is the August 28, 2012 live office hours for Internet History, Technology, and Security  https://www.coursera.org/course/insidetheinternet.  It was the largest of all of the offices hours and we talked for an hour and a half.  The other office hours were held in New York City, Los Angeles, Ann Arbor, Chicago, and Memphis."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "851",
+            "likeCount": "8",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 38.91172,
+                "longitude": -77.02776,
+                "altitude": 0.0
+            },
+            "recordingDate": "2012-08-28T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/vIheAInF4cBoUW5Wt6gTLOtJz9E\"",
+        "id": "T6ZljoZOnwI",
+        "snippet": {
+            "publishedAt": "2012-08-15T16:33:38.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Chicago Office Hours  - Coursera Internet History Technology, and Security",
+            "description": "This is the video from the https://www.coursera.org/course/insidetheinternet Coursera course - at the Palmer House in downtown Chicago - August 15, 2012.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/T6ZljoZOnwI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/T6ZljoZOnwI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/T6ZljoZOnwI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/T6ZljoZOnwI/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/T6ZljoZOnwI/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "tags": [
+                "2012",
+                "08",
+                "15",
+                "Office",
+                "Hours",
+                "Chicago",
+                "1400"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Chicago Office Hours  - Coursera Internet History Technology, and Security",
+                "description": "This is the video from the https://www.coursera.org/course/insidetheinternet Coursera course - at the Palmer House in downtown Chicago - August 15, 2012."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "376",
+            "likeCount": "5",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "0"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 41.8806,
+                "longitude": -87.62743,
+                "altitude": 0.0
+            },
+            "recordingDate": "2012-08-15T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/BfREYcLI1iutP1oQy823lviDiDc\"",
+        "id": "I9rPidDyfVE",
+        "snippet": {
+            "publishedAt": "2012-08-10T04:40:40.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Ann Arbor Coursera Offices Hours  2012-08-08",
+            "description": "Ann Arbor Coursera Offices Hours  2012-08-08 - https://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/I9rPidDyfVE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/I9rPidDyfVE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/I9rPidDyfVE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/I9rPidDyfVE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/I9rPidDyfVE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "tags": [
+                "2012",
+                "08",
+                "08",
+                "ann",
+                "arbor",
+                "coursera",
+                "office",
+                "hours"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Ann Arbor Coursera Offices Hours  2012-08-08",
+                "description": "Ann Arbor Coursera Offices Hours  2012-08-08 - https://www.coursera.org/course/insidetheinternet"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "888",
+            "likeCount": "4",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 42.27513,
+                "longitude": -83.73558,
+                "altitude": 0.0
+            },
+            "recordingDate": "2012-08-09T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/-PuEJhPdFZFAQTdkuASsx2LEf_g\"",
+        "id": "v5rlMJHBC2k",
+        "snippet": {
+            "publishedAt": "2012-08-01T21:06:22.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Internet History, Technology, and Security Coursera Office Hours - Los Angeles",
+            "description": "This is the office hours live for the Coursera Internet History, Technology, and Security at the Woodland Hills, CA (Los Angeles are) Starbucks.   Thanks to Greg, Susan, Josh, Joanne, and Arcelia.  We talked for almost 2 hours about the course, the future of education and lots of other things..",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/v5rlMJHBC2k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/v5rlMJHBC2k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/v5rlMJHBC2k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/v5rlMJHBC2k/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "tags": [
+                "2012",
+                "07",
+                "Coursera",
+                "LA",
+                "1400"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Internet History, Technology, and Security Coursera Office Hours - Los Angeles",
+                "description": "This is the office hours live for the Coursera Internet History, Technology, and Security at the Woodland Hills, CA (Los Angeles are) Starbucks.   Thanks to Greg, Susan, Josh, Joanne, and Arcelia.  We talked for almost 2 hours about the course, the future of education and lots of other things.."
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "961",
+            "likeCount": "7",
+            "dislikeCount": "1",
+            "favoriteCount": "0",
+            "commentCount": "3"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 34.18871,
+                "longitude": -118.64153,
+                "altitude": 0.0
+            },
+            "recordingDate": "2012-08-01T00:00:00.000Z"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/7itmjr7RfPGfOTpxonZewpqU9J8\"",
+        "id": "ar1J5TL2OrU",
+        "snippet": {
+            "publishedAt": "2012-07-27T00:53:59.000Z",
+            "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+            "title": "Coursera Office Hours - New York City - July 26, 2012",
+            "description": "This was the first face-to-face office hours for my Internet History, Technology and Security course.   They were held July 26, 2012 at Starbucks on Washington Square in New York City, NY, USA.  10 Students showed up and we talked about a wide range of topics for an hour and a half.\n\nhttps://www.coursera.org/course/insidetheinternet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ar1J5TL2OrU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ar1J5TL2OrU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ar1J5TL2OrU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ar1J5TL2OrU/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                }
+            },
+            "channelTitle": "Chuck Severance",
+            "tags": [
+                "coursera",
+                "education",
+                "online",
+                "internet",
+                "New York",
+                "Starbucks"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Coursera Office Hours - New York City - July 26, 2012",
+                "description": "This was the first face-to-face office hours for my Internet History, Technology and Security course.   They were held July 26, 2012 at Starbucks on Washington Square in New York City, NY, USA.  10 Students showed up and we talked about a wide range of topics for an hour and a half.\n\nhttps://www.coursera.org/course/insidetheinternet"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "statistics": {
+            "viewCount": "1344",
+            "likeCount": "10",
+            "dislikeCount": "0",
+            "favoriteCount": "0",
+            "commentCount": "1"
+        },
+        "recordingDetails": {
+            "location": {
+                "latitude": 40.72959,
+                "longitude": -73.99624,
+                "altitude": 0.0
+            },
+            "recordingDate": "2012-07-26T00:00:00.000Z"
+        }
+    }
+]
